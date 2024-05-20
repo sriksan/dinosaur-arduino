@@ -3,7 +3,7 @@
 This project implements a simple side-scrolling game inspired by the Chrome dinosaur game, using an Arduino and an I2C-connected Liquid Crystal Display (LCD). The player controls a dinosaur character that must jump over various obstacles to avoid collisions and keep the game going.
 
 ## Overview
-- **Custom Characters**: Unique characters for the dinosaur, small cactus, big cactus, and bird obstacles, created using the LCD's custom character functionality.
+- **Custom Characters**: Unique characters for the dinosaur, small cactus, big cactus, and bird obstacles.
 - **Random Obstacle Generation**: Obstacles are generated at random positions and intervals, making each game session unique.
 - **Score Display**: The player's current score is continuously displayed on the LCD screen.
 - **Increasing Difficulty**: As the player’s score increases, the game speed increases, making the game progressively more challenging.
