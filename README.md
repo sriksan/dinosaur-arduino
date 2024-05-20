@@ -10,10 +10,10 @@ This project implements a simple side-scrolling game inspired by the Chrome dino
 - **Game Over Screen**: When the dinosaur collides with an obstacle, the game ends and a "GAME OVER" message is displayed along with the final score.
 
 ## Game Mechanics
-- **Jumping**: The player controls the dinosaur using a push button connected to the Arduino. Pressing the button makes the dinosaur jump to avoid obstacles.
-- **Obstacle Movement**: Obstacles move from right to left across the screen. If an obstacle reaches the left side of the screen, it resets and reappears on the right.
+- **Jumping**: A push button connected to the Arduino allows the dinosaur to jump and avoid obstacles.
+- **Obstacle Movement**: Obstacles move from right to left across the screen.
 - **Collision Detection**: The game checks for collisions between the dinosaur and obstacles. If a collision is detected, the game ends.
-- **Score Keeping**: The player's score increases over time as long as the dinosaur avoids obstacles. The score is displayed on the LCD and updated in real-time.
+- **Score Keeping**: The player's score increases over time as long as the dinosaur avoids obstacles. The score is displayed on the LCD.
 - **Speed Increase**: The game speed increases at regular intervals based on the player's score, adding to the game's difficulty.
 
 ## Custom Characters
