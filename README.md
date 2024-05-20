@@ -1,1 +1,1 @@
-# dinosaur-arduino
+# Dinosaur Arduino
